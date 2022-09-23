@@ -1,0 +1,20 @@
+body{
+    background-color:white;
+    margin:0vmax;
+    text-decoration: wavy;
+    font-style:oblique;
+    font-family: cursive;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration:none;
+} 
+
+a{
+    display: block;
+    color:rgb(207, 31, 31);
+}
+
+head{
+    background-color: beige;
+}
+
