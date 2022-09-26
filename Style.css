@@ -1,9 +1,9 @@
 body{
     background-color:white;
     margin:0vmax;
-    text-decoration: wavy;
-    font-style:oblique;
-    font-family: cursive;
+    text-decoration:none;
+    font-style:normal;
+    font-family:Arial, Helvetica, sans-serif;
     margin: 0;
     box-sizing: border-box;
     text-decoration:none;
@@ -11,10 +11,22 @@ body{
 
 a{
     display: block;
-    color:rgb(207, 31, 31);
+    color:aliceblue;
+    justify-content: space-between;
 }
 
 head{
     background-color: beige;
 }
-
+ nav { 
+    align-items:center;
+    display:flex;
+    justify-content:space-between;
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: black;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+ }
